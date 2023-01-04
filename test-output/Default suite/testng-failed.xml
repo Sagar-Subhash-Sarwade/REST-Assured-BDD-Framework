@@ -5,7 +5,7 @@
     <classes>
       <class name="post_put_delete_session03.Validate_PPD_api">
         <methods>
-          <include name="Post_Using_Json_Object"/>
+          <include name="Put_Using_Json_Object"/>
         </methods>
       </class> <!-- post_put_delete_session03.Validate_PPD_api -->
     </classes>
