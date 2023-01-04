@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-03T19:00:23 IST" name="Default suite" finished-at="2023-01-03T19:00:26 IST" duration-ms="2741">
+    <groups>
+    </groups>
+    <test started-at="2023-01-03T19:00:23 IST" name="Default test" finished-at="2023-01-03T19:00:26 IST" duration-ms="2741">
+      <class name="post_put_delete_session03.Validate_PPD_api">
+        <test-method signature="Post_Using_Json_Object()[pri:0, instance:post_put_delete_session03.Validate_PPD_api@5fbdfdcf]" started-at="2023-01-03T19:00:24 IST" name="Post_Using_Json_Object" finished-at="2023-01-03T19:00:26 IST" duration-ms="2706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post_Using_Json_Object -->
+      </class> <!-- post_put_delete_session03.Validate_PPD_api -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
