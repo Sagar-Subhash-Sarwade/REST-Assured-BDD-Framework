@@ -75,7 +75,7 @@ public void Put_Using_Json_Object() {
 			  	.contentType(ContentType.JSON)
 			  	.body(json.toString()).
 			  when()
-			  	.post("/create"). 
+			  	.put("/update/5"). 
 			  then()
 			  	.log().all()
 			  	.statusCode(200)
