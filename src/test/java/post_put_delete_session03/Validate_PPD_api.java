@@ -109,6 +109,25 @@ public class Validate_PPD_api {
 					  System.out.println("The id of newly created user is:" +id);
 		  }
 	  
+<<<<<<< HEAD
   
 	
+=======
+	  @Test
+	  public void Validate_Delete_Request() {
+		  		  
+		 String message = given()
+		  	.baseUri("https://dummy.restapiexample.com/api/v1").
+		  when()
+		  	.delete("/delete/2").
+		  then()
+		  	.log().all()
+		  	.statusCode(200)
+		  	.statusLine("HTTP/1.1 200 OK")
+		  	.time(lessThan(3000l), TimeUnit.MILLISECONDS)
+		  	.extract().path("message");
+		 
+		 System.out.println("The message received after deleting record:" +message);
+	}
+>>>>>>> sagar
 }
