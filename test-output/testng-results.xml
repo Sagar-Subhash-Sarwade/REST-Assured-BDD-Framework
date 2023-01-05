@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-<<<<<<< HEAD
-  <suite started-at="2023-01-05T11:53:32 IST" name="Default suite" finished-at="2023-01-05T11:53:35 IST" duration-ms="2928">
+  <suite started-at="2023-01-05T19:29:25 IST" name="Default suite" finished-at="2023-01-05T19:29:30 IST" duration-ms="4957">
     <groups>
     </groups>
-    <test started-at="2023-01-05T11:53:32 IST" name="Default test" finished-at="2023-01-05T11:53:35 IST" duration-ms="2928">
+    <test started-at="2023-01-05T19:29:25 IST" name="Default test" finished-at="2023-01-05T19:29:30 IST" duration-ms="4957">
       <class name="post_put_delete_session03.Validate_PPD_api">
-        <test-method signature="Put_Using_Json_Object()[pri:0, instance:post_put_delete_session03.Validate_PPD_api@4efc180e]" started-at="2023-01-05T11:53:33 IST" name="Put_Using_Json_Object" finished-at="2023-01-05T11:53:35 IST" duration-ms="2894" status="PASS">
-=======
-  <suite started-at="2023-01-05T18:46:12 IST" name="Default suite" finished-at="2023-01-05T18:46:18 IST" duration-ms="5214">
-    <groups>
-    </groups>
-    <test started-at="2023-01-05T18:46:12 IST" name="Default test" finished-at="2023-01-05T18:46:18 IST" duration-ms="5214">
-      <class name="post_put_delete_session03.Validate_PPD_api">
-        <test-method signature="Put_Using_File()[pri:0, instance:post_put_delete_session03.Validate_PPD_api@bd4dc25]" started-at="2023-01-05T18:46:13 IST" name="Put_Using_File" finished-at="2023-01-05T18:46:18 IST" duration-ms="5143" status="PASS">
->>>>>>> sagar
+        <test-method signature="Validate_Delete_Request()[pri:0, instance:post_put_delete_session03.Validate_PPD_api@25084a1e]" started-at="2023-01-05T19:29:25 IST" name="Validate_Delete_Request" finished-at="2023-01-05T19:29:30 IST" duration-ms="4896" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Put_Using_File -->
+        </test-method> <!-- Validate_Delete_Request -->
       </class> <!-- post_put_delete_session03.Validate_PPD_api -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

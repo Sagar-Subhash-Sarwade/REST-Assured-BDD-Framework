@@ -5,7 +5,7 @@
     <classes>
       <class name="post_put_delete_session03.Validate_PPD_api">
         <methods>
-          <include name="Put_Using_File"/>
+          <include name="Validate_Delete_Request"/>
         </methods>
       </class> <!-- post_put_delete_session03.Validate_PPD_api -->
     </classes>
