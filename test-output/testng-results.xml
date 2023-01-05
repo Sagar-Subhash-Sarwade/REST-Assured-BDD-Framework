@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-04T22:54:12 IST" name="Default suite" finished-at="2023-01-04T22:54:17 IST" duration-ms="4901">
+  <suite started-at="2023-01-05T18:46:12 IST" name="Default suite" finished-at="2023-01-05T18:46:18 IST" duration-ms="5214">
     <groups>
     </groups>
-    <test started-at="2023-01-04T22:54:12 IST" name="Default test" finished-at="2023-01-04T22:54:17 IST" duration-ms="4901">
+    <test started-at="2023-01-05T18:46:12 IST" name="Default test" finished-at="2023-01-05T18:46:18 IST" duration-ms="5214">
       <class name="post_put_delete_session03.Validate_PPD_api">
-        <test-method signature="Put_Using_Json_Object()[pri:0, instance:post_put_delete_session03.Validate_PPD_api@4efc180e]" started-at="2023-01-04T22:54:12 IST" name="Put_Using_Json_Object" finished-at="2023-01-04T22:54:17 IST" duration-ms="4823" status="PASS">
+        <test-method signature="Put_Using_File()[pri:0, instance:post_put_delete_session03.Validate_PPD_api@bd4dc25]" started-at="2023-01-05T18:46:13 IST" name="Put_Using_File" finished-at="2023-01-05T18:46:18 IST" duration-ms="5143" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Put_Using_Json_Object -->
+        </test-method> <!-- Put_Using_File -->
       </class> <!-- post_put_delete_session03.Validate_PPD_api -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
